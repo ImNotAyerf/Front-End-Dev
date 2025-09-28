@@ -15,9 +15,9 @@ Welcome to my personal Front End playground! This repository is where I explore,
 
 You'll find organized folders for each topic or project:
 
-- html-basics/
-- css-practice/
-- js-exercises/
+- html/
+- css/
+- js/
 - mini-projects/
 
 ## 🧠 Why This Repo Exists
