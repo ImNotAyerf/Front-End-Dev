@@ -19,6 +19,7 @@ You'll find organized folders for each topic or project:
 - CSS/
 - JS/
 - mini-projects/
+- big-projects/
 
 ## 🧠 Why This Repo Exists
 
