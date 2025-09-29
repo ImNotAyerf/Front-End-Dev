@@ -1,4 +1,4 @@
-# 🌐 Front End learning Journey
+# 🌐 Front End Learning Journey
 
 Welcome to my personal Front End playground! This repository is where I explore, experiment, and grow my skills in building beautiful, responsive and interactive websites.
 
