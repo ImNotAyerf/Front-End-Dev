@@ -1,0 +1,64 @@
+<!-- freecodecamp learning -->
+
+<!DOCTYPE html>
+<html lang=""en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Survey Form</title>
+        <link rel="stylesheet" href="survey-form.css" />
+    </head>
+    <body>
+        <h1 id="title">Survey Form</h1>
+        <p id="description">Thank you for taking the time to help us improve the platform!</p>
+        <form id="survey-form">
+            <div class="container">
+                <fieldset>
+                    <label for="name" id="name-label">Name
+                        <input id="name" name="name" type="text" placeholder="Your Name..." required class="info" />
+                    </label>
+                    <label for="email" id="email-label">Email
+                        <input id="email" name="email" type="email" placeholder="Your email..." required class="info" />
+                    </label>
+                    <label for="number" id="number-label">Age
+                        <input id="number" name="number" type="number" min="13" max="120" placeholder="Your number..." class="info" />
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <label>What best describes your role?</label>
+                    <select id="dropdown" name="dropdown">
+                        <option value="">Select an option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <label>Are you satisfied with our platform?</label>
+                    <label for="yes">
+                        <input id="yes" name="yes-no" value="yes" type="radio" class="inline" />Yes
+                    </label>
+                    <label for="no">
+                        <input id="no" name="yes-no" value="no" type="radio" class="inline" />No
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <label>What do we need to improve?</label>
+                    <label for="improve">
+                        <input type="checkbox" name="improve" value="improve" class="inline" />Option 1
+                    </label>
+                    <label for="improve2">
+                        <input type="checkbox" name="improve2" value="improve2" class="inline" />Option 2
+                    </label>
+                    <label for="improve3">
+                        <input type="checkbox" name="improve3" value="improve3" class="inline" />Option 3
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <label for="comments">Any comments or suggestions?</label>
+                    <textarea id="comments" name="comments" rows="4" cols="30" placeholder="Your comments or suggestions..."></textarea>
+                </fieldset>
+                <input type="submit" id="submit" value="Submit" />
+            </div>
+        </form>
+    </body>
+</html>
