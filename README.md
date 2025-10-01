@@ -17,6 +17,7 @@ You'll find organized folders for each topic or project:
 
 - [HTML/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/HTML)
 - [CSS/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/CSS)
+- JS/
 - [mini-projects/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/mini-projects)
 - big-projects/
 
@@ -38,6 +39,6 @@ I'm using this space to:
 
 This is a personal learning space, but if you spot something helpful or want to share tips, feel free to open an issue or drop a comment!
 
----------------------
+--------------------------
 
 Thanks for stopping by! 🌟
