@@ -11,7 +11,7 @@ Welcome to my personal Front End playground! This repository is where I explore,
 - **Frameworks** – Starting with basics, then diving into React, Vue, or others
 - **Version Control** – Git and GitHub for collaboration and tracking
 
-- ## 📁 Folder Structure
+## 📁 Folder Structure
 
 You'll find organized folders for each topic or project:
 
