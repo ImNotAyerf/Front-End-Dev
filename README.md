@@ -15,10 +15,9 @@ Welcome to my personal Front End playground! This repository is where I explore,
 
 You'll find organized folders for each topic or project:
 
-- HTML/
-- CSS/
-- JS/
-- mini-projects/
+- [HTML/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/HTML)
+- [CSS/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/CSS)
+- [mini-projects/](https://github.com/ImNotAyerf/Front-End-Dev/tree/main/mini-projects)
 - big-projects/
 
 ## 🧠 Why This Repo Exists
