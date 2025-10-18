@@ -6,34 +6,48 @@ body {
 }
 
 header {
-    height: 50px;
-    width: 100%;
-    background-color: #1b1b32;
-    display: flex;
+  height: 50px;
+  width: 100%;
+  background-color: #1b1b32;
+  display: flex;
 }
 
 #logo {
-    width: max(10rem, 18vw);
-    background-color: #0a0a23;
-    aspect-ratio: 35 / 4;
-    padding: 0.4rem;
+  width: max(10rem, 18vw);
+  background-color: #0a0a23;
+  aspect-ratio: 35 / 4;
+  padding: 0.4rem;
 }
 
 h1 {
-    color: #f1be32;
-    font-size: min(5vw, 1.2em);
+  color: #f1be32;
+  font-size: min(5vw, 1.2em);
 }
 
 nav > ul {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 h2 {
-    border-bottom: 4px solid #dfdfe2;
+  border-bottom: 4px solid #dfdfe2;
 }
 
-h1, h2 {
-    font-family: Verdana, Tahoma, sans-serif;
+h1,
+h2 {
+  font-family: Verdana, Tahoma, sans-serif;
 }
 
+h3::before {
+  content: "Question #";
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
