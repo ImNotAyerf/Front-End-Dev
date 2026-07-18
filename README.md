@@ -30,7 +30,7 @@ I'm using this space to:
 
 ## 💡 Goals
 
-- Build a portfolio-worthy project by the end of the year
+- Build a portfolio-worthy project
 - Master responsive design techniques
 - Being knowledgable to programming languages (HTML,CSS,JavaScript)
 - Explore at least one front-end framework
